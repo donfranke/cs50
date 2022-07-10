@@ -1,3 +1,2 @@
 # cs50
-Solutions to cs50 problems
-The cs50 dependency is required to run.
+Solutions to cs50 problems. Running these files requires the cs50 dependency (cs50.h).
